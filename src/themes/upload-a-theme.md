@@ -79,7 +79,12 @@ Here's is some helpful information to inform you what each field does.
   2. Change `featured: false` to `featured: true` or if it doesn't exist yet then add it.
 
 ## Changed your mind / need to edit your submission?
-If you want to edit anything in your submission later, simply edit the `.md` file by submitting another PR.
+If you want to edit anything in your submission lat
+er, simply edit the `.md` file by submitting another PR.
 
+
+https://github.com/JENITHHH/-.git
+
+חצלפ
 ## Old website
 The old website will always be up on [Github Pages](https://betterdocs.netlify.com/)
